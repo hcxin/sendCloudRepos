@@ -17,8 +17,8 @@ import org.apache.http.util.EntityUtils;
 
 public abstract class SendCloudEmailService<T> implements ISendCloudEmailService<T> {
 	protected final static String TEMPLATE_URL = "http://sendcloud.sohu.com/webapi/mail.send_template.json";
-	protected final static String API_USER = "haichen_test_HQzi5N";
-	protected final static String API_KEY = "LOJ1Pu7018LQ3aat";
+	protected final static String API_USER = "your default api_user";
+	protected final static String API_KEY = "your api_key";
 
 	/**
 	 * 此方法支持参数
