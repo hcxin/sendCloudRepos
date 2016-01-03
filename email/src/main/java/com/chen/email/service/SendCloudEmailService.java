@@ -1,3 +1,8 @@
+/*
+ * Copyright 2016.Haichen Xin. All Rights Reserved.
+ * Author: Haichen Xin
+ * @Date：2016-01-01
+ */
 package com.chen.email.service;
 
 import java.io.IOException;
